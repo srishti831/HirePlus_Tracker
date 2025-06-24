@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Next.js specific (if using it for frontend)
+.next/
+out/
+
+# React specific (if using CRA)
+*.cache/
